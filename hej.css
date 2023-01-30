@@ -1,14 +1,36 @@
+*{
+  list-style-type: none;
+  text-decoration: none;
+}
+
+body{
+  background-color: black;
+}
+
+h1{
+  color: white;
+}
+
+p{
+  color: white;
+}
 
 
 nav {
   background-color: red;
   list-style: none;
+  text-align: right;
+  padding: 5px 25px;
+  color: white;
 }
 
 
 
 li {
   color: white;
+  display: inline;
+  
+  
   
 }
 
