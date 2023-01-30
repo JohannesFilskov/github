@@ -1,7 +1,15 @@
 .body {
-  color: black;
+  background-color: black;
 }
 
 a {
-  color: white; 
+  color: white;
+}
+
+h1 {
+  color: white;
+}
+
+p {
+  color: white;
 }
