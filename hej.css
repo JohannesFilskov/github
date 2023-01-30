@@ -1,3 +1,22 @@
-.body {
-  color: red;
+*{
+  list-style-type: none;
 }
+
+
+body {
+  background: black;
+  color: white;
+}
+
+nav {
+  background-color: red;
+  list-style: none;
+
+
+}
+
+li {
+  color: white;
+  
+}
+
